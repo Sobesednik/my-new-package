@@ -1,5 +1,7 @@
 # my-new-package
 
+go to [mnp](https://www.npmjs.com/package/mnp) for the cli.
+
 `my-new-package` is a new Node.js npm package.
 
 ## `myNewPackage():void`
